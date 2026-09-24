@@ -1,4 +1,5 @@
-# glua-SharpVector
+(WIP)
+# AcuteVector
  A GLua implementation of [Vector] with rigorous optimization & high precision because Lua numbers are doubles.
 
 #### My initial motive
